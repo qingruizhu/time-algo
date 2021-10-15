@@ -1,11 +1,11 @@
-package com.time.algo.week.a;
+package com.time.algo.week01.student;
 
 /**
  * @Description:
  * @Auther: qingruizhu
  * @Date: 2021/10/2 09:38
  */
-public class A2Class {
+public class S2 {
 
     public class ListNode {
         int val;

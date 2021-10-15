@@ -1,4 +1,4 @@
-package com.time.algo.week.b;
+package com.time.algo.week02.student;
 
 
 import java.util.HashMap;
@@ -23,7 +23,7 @@ import java.util.Set;
  * [1, 2, 2, 3, 1], [1, 2, 2, 3], [2, 2, 3, 1], [1, 2, 2], [2, 2, 3], [2, 2]
  * 最短连续子数组[2, 2]的长度为2，所以返回2.
  */
-public class B2 {
+public class S2 {
 
     public static void main(String[] args) {
         int[] arr = {1, 2, 2, 3, 1};

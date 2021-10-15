@@ -1,4 +1,4 @@
-package com.time.algo.week.b;
+package com.time.algo.week02.student;
 
 import java.util.HashMap;
 import java.util.List;
@@ -21,7 +21,7 @@ import java.util.stream.Collectors;
  * 说明:
  * 例子中仅包含一个网站域名："discuss.leetcode.com"。按照前文假设，子域名"leetcode.com"和"com"都会被访问，所以它们都被访问了9001次。
  */
-public class B1 {
+public class S1 {
 
     public static void main(String[] args) {
         String[] test = {"9001 discuss.leetcode.com"};

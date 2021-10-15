@@ -1,4 +1,4 @@
-package com.time.algo.week.b;
+package com.time.algo.week02.student;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -21,7 +21,7 @@ import java.util.Map;
  * 输出：4
  * 解释：四个只含 0 的 1x1 子矩阵。
  */
-public class B3 {
+public class S3 {
 
 
     public int numSubmatrixSumTarget(int[][] matrix, int target) {

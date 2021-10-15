@@ -1,4 +1,4 @@
-package com.time.algo.week.b;
+package com.time.algo.week02.student;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -18,7 +18,7 @@ import java.util.Map;
  * 输入：nums = [1,2,3], k = 3
  * 输出：2
  */
-public class B4 {
+public class S4 {
 
 
     public int subarraySum(int[] nums, int k) {

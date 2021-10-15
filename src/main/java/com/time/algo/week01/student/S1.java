@@ -1,4 +1,4 @@
-package com.time.algo.week.a;
+package com.time.algo.week01.student;
 
 /**
  * @Description: 66. 加一
@@ -10,7 +10,7 @@ package com.time.algo.week.a;
  * @Auther: qingruizhu
  * @Date: 2021/10/1 10:57
  */
-public class A1Class {
+public class S1 {
 
 
     public int[] plusOne(int[] digits) {
